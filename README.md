@@ -3,7 +3,7 @@
 ---
 Sebelum anda mengerjakan soal ujian, pastikan anda memiliki akun **GitHub** dan ***software git*** sudah terinstall dilaptop. Anda dapat memastikan bahwa **git** sudah terinstall dilaptop anda dengan menjalankan perintah berikut ini diterminal atau ***cmd*** : ``` git --version ```. Jika muncul *versi git* maka komputer anda sudah terinstal *git*.
 
-Soal ujian dapat anda temukan didalam repositori ini atau anda dapat melihatnya melalui link dibawah ini
+Soal ujian dapat diakses melalui link dibawah ini
 
 - link : https://1drv.ms/b/s!AiB5Ve4i2OxQgvNFudcJ8mpJ7qafXQ?e=HkSnCa
 - password : jcwm15_purwadhika
