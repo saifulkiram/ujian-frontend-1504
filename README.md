@@ -4,9 +4,7 @@
 Sebelum anda mengerjakan soal ujian, pastikan anda memiliki akun **GitHub** dan ***software git*** sudah terinstall dilaptop. Anda dapat memastikan bahwa **git** sudah terinstall dilaptop anda dengan menjalankan perintah berikut ini diterminal atau ***cmd*** : ``` git --version ```. Jika muncul *versi git* maka komputer anda sudah terinstal *git*.
 
 Soal ujian dapat diakses melalui link dibawah ini
-
-- link : https://1drv.ms/b/s!AiB5Ve4i2OxQgvNFudcJ8mpJ7qafXQ?e=HkSnCa
-- password : jcwm15_purwadhika
+- link : https://drive.google.com/file/d/1lz0LxpAfRqciViwNix1dlrhQ2EfYY0mV/view?usp=sharing
 
 Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam mengerjakan soal-soal ujian berikut ini.
 
@@ -22,7 +20,7 @@ Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam men
 - siswa boleh membuka *website* dan referensi lainnya selama ujian sesuai ketentuan yang berlaku
 - jawaban soal akan dikumpulkan di dalam repositori ini dengan sistem ***pull request*** dan siswa wajib mengirim ***link*** dari ***forked repositoy*** ke alamat email berikut ini :<br>
 
-    to : operational@purwadhika.com <br>
+    to : operational_jkt@purwadhika.com <br>
     subject : JCWM-1504-FRONTEND
 
 ## B. Exam Setup Guide
